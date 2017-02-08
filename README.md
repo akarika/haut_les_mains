@@ -1,6 +1,14 @@
 # haut_les_mains
-================
-###Function.php
+----------------
+
+Le site Haut les mains est un site associatif dans le milieu créatif .
+
+Dans un groupe de 4 j'ai eu la responsabilité du back-end.
+
+
+
+
+###function.php
 
 Toute les fonctions que j'ai créé pour le site haut les mains 
 
